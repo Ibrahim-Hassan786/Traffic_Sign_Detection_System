@@ -4,5 +4,6 @@ tensorflow==2.19.0
 numpy==1.24.3
 pillow==9.5.0
 protobuf==4.21.12
-gunicorn==21.2.0 
-setuptools==65.5.1
+gunicorn==21.2.0
+setuptools
+wheel
