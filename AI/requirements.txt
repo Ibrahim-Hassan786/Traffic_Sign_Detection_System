@@ -1,8 +1,8 @@
 flask==2.3.3
 flask-cors==4.0.0
-tensorflow==2.19.0
+tensorflow==2.15.0
 numpy==1.24.3
 pillow==9.5.0
-protobuf==4.21.12
+protobuf==3.20.3
 gunicorn==21.2.0
 setuptools==69.1.0
