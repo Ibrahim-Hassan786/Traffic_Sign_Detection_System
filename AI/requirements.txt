@@ -5,5 +5,4 @@ numpy==1.24.3
 pillow==9.5.0
 protobuf==4.21.12
 gunicorn==21.2.0
-setuptools
-wheel
+setuptools==69.1.0
